@@ -9,6 +9,7 @@ Square Root: Calculate the square root of a number.
 Trigonometric Functions: Compute sine, cosine, and tangent for a given angle in degrees.
 User-Friendly GUI: Perform calculations through an intuitive graphical interface.
 Exit Option: Close the application with a single click.
+
 Requirements:
 Python 3.x
 tkinter (usually included with Python standard library)
@@ -17,6 +18,7 @@ Ensure Python is installed on your system.
 Save the provided script to a file, e.g., gui_calculator.py.
 Run the script using: python gui_calculator.py.
 The GUI window will open, allowing you to interact with the calculator.
+
 Usage:
 Choose an operation using the radio buttons.
 Enter numbers in the input fields as required.
