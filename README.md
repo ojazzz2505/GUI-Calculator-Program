@@ -17,17 +17,30 @@ User-Friendly GUI: Perform calculations through an intuitive graphical interface
 Exit Option: Close the application with a single click.
 
 Requirements:
+
 Python 3.x
+
 tkinter (usually included with Python standard library)
+
 How to Run:
+
 Ensure Python is installed on your system.
+
 Save the provided script to a file, e.g., gui_calculator.py.
+
 Run the script using: python gui_calculator.py.
+
 The GUI window will open, allowing you to interact with the calculator.
 
+
 Usage:
+
 Choose an operation using the radio buttons.
+
 Enter numbers in the input fields as required.
+
 Click "Calculate" to see the result.
+
 Use the "Quit" button to exit the application.
+
 
